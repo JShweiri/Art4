@@ -5,6 +5,6 @@ Before:
 ![Before](https://github.com/JShweiri/Art4/blob/master/resources/me.png)
 
 After: 
-![After](https://github.com/JShweiri/Art4/blob/master/resources/meAfter.png.png)
+![After](https://github.com/JShweiri/Art4/blob/master/resources/meAfter.png)
 
 TODO: change program to not only do rectangle shaped segments but also triangle shaped
